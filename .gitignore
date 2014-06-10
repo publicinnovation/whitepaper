@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Jekyll ignores:
 Gemfile.lock
 test/dest
@@ -18,6 +19,8 @@ coverage
 
 ## Ruby ignores:
 =======
+=======
+>>>>>>> FETCH_HEAD
 # OS X
 .DS_Store
 .AppleDouble
@@ -41,7 +44,10 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+<<<<<<< HEAD
 >>>>>>> fdceb8fbc3db77ee4def708576cb201a8404e413
+=======
+>>>>>>> FETCH_HEAD
 *.rbc
 capybara-*.html
 .rspec
