@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>a white paper by Public Innovation</title>
+    <title>{{ page.title }} | a white paper by Public Innnovation</title>
     <meta name="description" content="We&#039;re a place-based, impact-focused civic inbubator working to build a civic innovation and social entrepreneurship ecosystem in the Sacramento region. This is our white paper.">
     <meta name="author" content="Public Innovation, Ash Roughani">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="css/pygment_trac.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/pygment_trac.css">
 
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -45,14 +45,10 @@
 
       <section>
 
-        <h1>Coming Soon</h1>
+        <h1>{{ page.title }}</h1>
 
-        <h2><a href="section/defining-innovation">1. Defining Innovation</a></h2>
-        <h2><a href="section/pursuing-innovation">2. Pursuing Innovation</a></h2>
-        <h2><a href="section/innovation-structures">3. Innovation Structures</a></h2>
-        <h2><a href="section/salient-themes">4. Salient Themes</a></h2>
-        <h2><a href="section/recommendations">5. Recommendations</a></h2>
-        
+        {{ content }}
+
       </section>
 
       <footer>
