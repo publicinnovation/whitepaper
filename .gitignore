@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Jekyll ignores:
 Gemfile.lock
 test/dest
@@ -16,6 +17,31 @@ coverage
 .sass-cache
 
 ## Ruby ignores:
+=======
+# OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+>>>>>>> fdceb8fbc3db77ee4def708576cb201a8404e413
 *.rbc
 capybara-*.html
 .rspec
