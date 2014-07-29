@@ -11,23 +11,15 @@ A few things make this different:
 
 Content is served up by [Jekyll](http://jekyllrb.com/) using [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) and here are direct links to each section of the paper within the respository:
 
-[Introduction](https://github.com/publicinnovation/whitepaper/blob/gh-pages/introduction.md)
-
-[1. Defining Innovation](https://github.com/publicinnovation/whitepaper/blob/gh-pages/defining-innovation.md)
-
-[2. Pursuing Innovation](https://github.com/publicinnovation/whitepaper/blob/gh-pages/pursuing-innovation.md)
-
-[3. Civic Innovation Structures](https://github.com/publicinnovation/whitepaper/blob/gh-pages/civic-innovation-structures.md)
-
-[4. Civic Innovation Themes](https://github.com/publicinnovation/whitepaper/blob/gh-pages/civic-innovation-themes.md)
-
-[5. Recommendations](https://github.com/publicinnovation/whitepaper/blob/gh-pages/recommendations.md)
-
-[Appendix A. Draft Regional Civic Technology, Innovation and Entrepreneurship Agenda Resolution](https://github.com/publicinnovation/whitepaper/blob/gh-pages/agenda-resolution.md)
-
-[Appendix B. Framework for an Innovative Jurisdiction](https://github.com/publicinnovation/whitepaper/blob/gh-pages/innovative-jurisdiction.md)
-
-[Appendix C. New Urban Mechanics Executive Order](https://github.com/publicinnovation/whitepaper/blob/gh-pages/new-urban-mechanics.md)
+* [Introduction](https://github.com/publicinnovation/whitepaper/blob/gh-pages/introduction.md)
+* [1. Defining Innovation](https://github.com/publicinnovation/whitepaper/blob/gh-pages/defining-innovation.md)
+* [2. Pursuing Innovation](https://github.com/publicinnovation/whitepaper/blob/gh-pages/pursuing-innovation.md)
+* [3. Civic Innovation Structures](https://github.com/publicinnovation/whitepaper/blob/gh-pages/civic-innovation-structures.md)
+* [4. Civic Innovation Themes](https://github.com/publicinnovation/whitepaper/blob/gh-pages/civic-innovation-themes.md)
+* [5. Recommendations](https://github.com/publicinnovation/whitepaper/blob/gh-pages/recommendations.md)
+* [Appendix A. Draft Regional Civic Technology, Innovation and Entrepreneurship Agenda Resolution](https://github.com/publicinnovation/whitepaper/blob/gh-pages/agenda-resolution.md)
+* [Appendix B. Framework for an Innovative Jurisdiction](https://github.com/publicinnovation/whitepaper/blob/gh-pages/innovative-jurisdiction.md)
+* [Appendix C. New Urban Mechanics Executive Order](https://github.com/publicinnovation/whitepaper/blob/gh-pages/new-urban-mechanics.md)
 
 Pull requests encouraged. Don't know how to make a pull request? [Create a GitHub account](https://github.com/join) and give us your feedback instead by [opening an issue](https://github.com/publicinnovation/whitepaper/issues). It's as easy as leaving a comment.
 
