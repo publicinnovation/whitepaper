@@ -28,7 +28,7 @@ Want to learn how to make a pull request? Hit up [@roughani](https://github.com/
 ## Acknowledgements
 * Theme forked from [orderedlist](https://github.com/orderedlist/minimal)
 * Powered by [GitHub Pages](https://pages.github.com/)
-* "Forke me on GitHub" CSS Ribbon by [simonwhitaker](https://github.com/simonwhitaker/github-fork-ribbon-css)
+* "Fork me on GitHub" CSS Ribbon by [simonwhitaker](https://github.com/simonwhitaker/github-fork-ribbon-css)
 
 ## License
 Copyright (c) 2014 Public Innovation
