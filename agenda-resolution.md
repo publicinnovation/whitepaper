@@ -10,7 +10,7 @@ WHEREAS, the Sacramento region employs nearly double the share of public sector 
 
 WHEREAS, the State of California is the region's largest employer and California has historically had a fractured state-local relationship and, thus, "Two Sacramentos";
 
-WHEREAS, the expectations of citizens are changing because of the modern affordances of digital technologies;
+WHEREAS, the expectations of citizens are changing due to modern affordances of digital technologies;
 
 WHEREAS, software is eating the world and the Sacramento region has a burgeoning startup scene;
 
