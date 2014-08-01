@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 title: 4. Civic Innovation Themes
 permalink: /civic-innovation-themes/
@@ -15,19 +15,19 @@ Through our exploration of the what it means to innovate, the strategies by whic
 * Procurement Process Reform
 * Support for Entrepreneurship
 * An Increasingly Engaged Public
-* Design for Inclusion
+* Inclusive Design
 * Emergent Innovation Ecosystems
-* A Shift in Culture 
+* A Shift in Culture
 
 ### Digital and Open by Default
 In the past, access to government through digital platforms was nice to have. Today, citizens expect their government to be [digital by default](https://www.gov.uk/service-manual/digital-by-default). Similarly, the approach to how agencies publish their data has been flipped on its head, lead in part by the [Obama Administration's Open Data Policy](http://www.whitehouse.gov/the-press-office/2013/05/09/executive-order-making-open-and-machine-readable-new-default-government-) that states:
 
-> "To promote continued job growth, Government efficiency, and the social good that can be gained from opening Government data to the public, the default state of new and modernized Government information resources shall be open and machine readable. Government information shall be managed as an asset throughout its life cycle to promote interoperability and openness, and, wherever possible and legally permissible, to ensure that data are released to the public in ways that make the data easy to find, accessible, and usable."
+> "To promote continued job growth, Government efficiency, and the social good that can be gained from opening Government data to the public, **the default state of new and modernized Government information resources shall be open and machine readable**. Government information shall be managed as an asset throughout its life cycle to promote interoperability and openness, and, wherever possible and legally permissible, to ensure that data are released to the public in ways that make the data easy to find, accessible, and usable."
 
 Therefore, public agencies that adopt this mindset need to approach their work in a fundamentally new way. Exceptions to this default standard are raised only when there are privacy or security concerns.
 
 ### Standards for Interoperability
-In order for government to effectively function as a platform, government must be interoperable with itself. That means adopting open data standards that ensure apples-to-apples data definitions and compatibility across the government enterprise–including across agencies of different jurisdictions and levels of government. In many cases, however, such standards cannot be established by fiat. Instead, open data standards must be developed in collaboration with stakeholders, both inside and outside of government, along with the general public. Moreover, the strategic value of these standards should be clarified at the outset to strike the right balance between ensuring standards meet the respective needs of the public, private, and nonprofit sectors.
+In order for government to effectively function as a platform, government must be interoperable with itself. That means adopting open data standards that include consistent definitions to ensure apples-to-apples  compatibility across the government enterprise–including across agencies of different jurisdictions and levels of government. In many cases, however, such standards cannot be established by fiat. Instead, open data standards must be developed in collaboration with stakeholders, both inside and outside of government, along with the general public. Moreover, the strategic value of these standards should be clarified at the outset to strike the right balance between ensuring standards meet the respective needs of the public, private, and nonprofit sectors.
 
 ### Cross-sector and Interagency Collaboration
 The civic space is not solely dominated by government; the private and non-profit sectors also play key roles that influence quality of life. And when organizations from all three sectors work in a coordinated way toward shared goals, greater social impact is often the result. A popular methodology, known as *collective impact*, seeks to establish [the conditions necessary for cross-sector, multi-stakeholder efforts to succeed](http://www.ssireview.org/articles/entry/collective_impact):
@@ -60,18 +60,18 @@ The use of design methods such as ethnography, prototyping, and user research he
 9. Be consistent, not uniform
 10. Make things open: it makes things better
 
-This citizen experience lens enables a more human centered orientation to service design. Quick iterations and feedback loops help evolve civic systems to better meet citizen needs over time. 
+This citizen experience lens enables a more human centered orientation to service design. Quick iterations and feedback loops help evolve civic systems to better meet citizen needs over time.
 
 ### Procurement Process Reform
-One of the challenges to how government does business lies in the rules around procurement. Because government can't hire for every competency necessary to build, deliver, and maintain public services, it often contracts with the private sector. However, as evidenced by the early troubles with HealthCare.gov, these rules of the game benefit those organizations that are best at playing by those rules, rather than the organizations best equipped to effectively meet or exceed citizen expectations. Similarly, procurement processes inhibit government's ability to do business with local startups and spur economic development due to the complexity and unfamiliarity with these rules.
+One of the challenges to how government does business lies in the rules around procurement. Because government can't hire for every competency necessary to build, deliver, and maintain public services, it often contracts with the private sector. However, as evidenced by the early troubles with HealthCare.gov, these rules of the game benefit those organizations that are best at playing by those rules, rather than the organizations best equipped to effectively meet or exceed citizen expectations. Similarly, procurement processes inhibit government's ability to do business with local startups and spur economic development due to the complexity and unfamiliarity associated with these rules.
 
 ### Support for Entrepreneurship
 McKinsey estimates that open data has the potential to add [$3 trillion in additional value to the global economy](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information). Much of this value will be contributed by open government data, which improves the efficiencies of markets by breaking down information asymmetries. We're seeing new civic startups and social enterprises that are able to build better interfaces to government and solve old problems in new ways. These ventures often reduce costs and improve outcomes for public agencies. Government can help these startups by providing access to internal business processes, committing resources to innovation funds, and supporting local incubators and co-working spaces.
 
 ### An Increasingly Engaged Public
-New modes of citizen engagement around building civic technology don't resemble traditional public engagement processes. Software is not only eating the world, it's enabled a new metaphor for building the things we want to see in the world. Volunteer civic technologists gather at weekly "hack nights" to design and develop better tools to solve problems in their local communities. Ever since Robert Putnam's *Bowling Alone*, thought leaders have worried about declining civic engagement. However, it turns out that engagement is not only occurring in new and different ways than previously imagined, but that it may, in fact, be on the rise. This also reflects a desire among Millennials to find meaningful work in their lives. 
+New modes of citizen engagement surround civic technology and don't resemble traditional public engagement processes. Software is not only eating the world, it's enabled a new metaphor for building the things we want to see in the world. Volunteer civic technologists gather at weekly [hack nights](http://opengovhacknight.org/) to design and develop better tools to solve problems in their local communities. Ever since Robert Putnam's *Bowling Alone*, thought leaders have worried about declining civic engagement. However, it turns out that engagement is not only occurring in new and different ways than previously imagined, but that it may, in fact, be on the rise. This also reflects a desire among Millennials to find meaningful work in their lives.
 
-### Design for Inclusion
+### Inclusive Design
 As the cost of technology and devices continues to decline, civic technology becomes a tool to empower underserved communities. Public programs and nonprofit service providers can better connect with their clients to ensure these programs and services are accomplishing their goals. For example, the City and County of San Francisco's Code for America fellowship team [developed an app called Promptly](http://codeforamerica.org/governments/sanfrancisco/) to help the county's Human Services Agency communicate critical information to clients via text message.
 
 ### Emergent Innovation Ecosystems

@@ -1,4 +1,4 @@
---- 
+---
 layout: default
 title: Appendix A. Draft Regional Civic Technology, Innovation and Entrepreneurship Agenda Resolution
 permalink: /agenda-resolution/
@@ -36,7 +36,7 @@ WHEREAS, the Sacramento region is working to reinvent public-private partnership
 
 NOW, THEREFORE BE IT RESOLVED that the (City/County) endorses the Regional Civic Innovation and Entrepreneurship Agenda and authorizes the (City Manager/County Executive) to actively engage in shaping and implementing the plan and to integrate it into the (City/County) administrative activities.
 
-BE IT FURTHER RESOLVED that the (City/County) endorses that the Sacramento Area Council of Governments establish a multi-sector stakeholder advisory body to advise the region’s local, state, and federal agencies on open data and civic innovation. The advisory body should:
+BE IT FURTHER RESOLVED that the (City/County) endorses the establishment of a multi-sector stakeholder advisory body to advise the region’s local, state, and federal agencies on open data and civic innovation. The advisory body should:
 
 a. Consist of local government staff, leaders of civic organizations, representatives from academia, and members of the entrepreneurship community;
 

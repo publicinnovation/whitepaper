@@ -1,12 +1,12 @@
---- 
+---
 layout: default
 title: 3. Civic Innovation Structures
 permalink: /civic-innovation-structures/
 ---
 
-A working definition of civic innovation will help set the context for how myriad diverse structures support the activity in practice. Noted technology journalist and open government advocate Alex Howard [offers the following definition](http://gov20.govfresh.com/defining-civic-innovation-definition-open-government/) of civic innovation:
+A working definition of civic innovation will help set the context for how myriad diverse structures support the activity in practice. Noted technology journalist and open government advocate Alex Howard [defines civic innovation](http://gov20.govfresh.com/defining-civic-innovation-definition-open-government/) of civic as follows:
 
-> "a new idea, technology or methodology that challenges and improves upon existing processes and systems, thereby improving the lives of citizens or the function of the society that they live within."
+> "[A] new idea, technology or methodology that challenges and improves upon existing processes and systems, thereby improving the lives of citizens or the function of the society that they live within."
 
 Following an environmental scan, we identify the following eight models that serve as platforms for civic innovation:
 
@@ -47,23 +47,23 @@ Public Sector Innovation Labs are places for the government and civil society to
 [Government's role with these labs varies across a continuum](http://nyc.pubcollab.org/files/Gov_Innovation_Labs-Constellation_1.0.pdf) that comprises owner, funder, co-funder, partner, client, and endorser.
 
 #### San Francisco Mayor's Office of Innovation
-One of the most well known innovation labs is the [San Francisco Mayor's Office of Civic Innovation](http://innovatesf.com/) (SFMOCI), led by Chief Innovation Officer Jay Nath. The office employs approximately six staff and works with mayoral leadership, city departments, and city residents. Although its project portfolio is continuously evolving based on their potential for impact, SFMOCI has pursued projects related to crowdsourcing, entrepreneurship, and urban prototyping.
+One of the most well known innovation labs is the [San Francisco Mayor's Office of Civic Innovation](http://innovatesf.com/) (SFMOCI), led by Chief Innovation Officer Jay Nath. The office employs approximately six staff and works with mayoral leadership, city departments, and city residents. Although its project portfolio is continuously evolving based on potential for impact, SFMOCI has pursued projects related to crowdsourcing, entrepreneurship, and urban prototyping.
 
 #### MindLab
 [MindLab](http://mind-lab.dk/en/about_mindlab) is an innovation lab within the Danish government led by Christian Bason, author of the the book *[Leading Public Sector Innovation: Co-creating for a Better Society](http://www.press.uchicago.edu/ucp/books/book/distributed/L/bo13438419.html)*. Bason is an avid proponent of using design thinking to empathize with citizens and the touchpoints they use to interact with government. Similarly, he advocates for co-creating policies and co-producing services *with* people, not just *for* people. MindLab is a partnership between three ministries and one municipality, and hires ethnographers and service designers to improve the citizen experience.
 
 #### Public Service Launchpad
-The [Public Service Launchpad](http://publicservice.hublaunchpad.net/) is a partnership between [Solve](http://solvetogether.org/) and [FutureGov](http://wearefuturegov.com/) in the United Kingdom, and offers seed funding and startup support for intrapraneurs who want to further develop and scale their projects. Intrapraneurship is an activity pursued by change agents within organizations who have promising ideas to improve existing public services or launch new initiatives within their organizations that have the potential to reduce costs and improve outcomes. The Launchpad also supports the creation of new social enterprises that are key partners with government.
+The [Public Service Launchpad](http://publicservice.hublaunchpad.net/) is a partnership between [Solve](http://solvetogether.org/) and [FutureGov](http://wearefuturegov.com/) in the United Kingdom, and offers seed funding and startup support for intrapraneurs who want to further develop and scale their projects. Intrapraneurship is an activity pursued by change agents within organizations who have promising ideas and the capacity to develop, test, launch, and scale new initiatives within their organizations. The Launchpad also supports the creation of new social enterprises that are key partners with government from the outside.
 
 ### 3.3 In-House Delivery Units
-In-House Delivery Units focus on improving the delivery of public services through better performance. This can involve rapid prototyping, performance management, and the implementation of transformation efforts. 
+In-House Delivery Units focus on improving the delivery of public services through better performance. This can involve rapid prototyping, performance management, and the implementation of transformation efforts.
 
 #### Government Digital Service and 18F
 Both the United Kingdom's [Government Digital Service (GDS)](https://gds.blog.gov.uk/about/) and the United States' [18F](https://18f.gsa.gov/) were born out of information technology project failures and the changing expectations of citizens around the delivery of digital services. 18F is literally a startup within the federal government's General Services Administration and is rapidly expanding. According the the organization's website:
 
-> "18F builds effective, user-centric digital services focused on the interaction between government and the people and businesses it serves." 
+> "18F builds effective, user-centric digital services focused on the interaction between government and the people and businesses it serves."
 
-While 18F is more focused on discrete projects, GDS is building out the entire UK government as [a unified platform with a consistent look and feel](https://www.gov.uk/).
+The organization has a [Free and Open Source Software (FOSS) policy](https://github.com/18F/open-source-policy/blob/master/policy.md). While 18F is more focused on discrete projects, GDS is building out the entire UK government as [a unified platform with a consistent look and feel](https://www.gov.uk/).
 
 #### Innovation Delivery Teams
 In July 2011, Bloomberg Philanthropies committed $24 million to solving urban challenges in partnership with mayors across the country. These resources were allocated to [Innovation Delivery Teams](http://www.bloomberg.org/program/government-innovation/innovation-delivery-teams/) structured to deliver new solutions to old problems on the ground.
@@ -77,36 +77,36 @@ Advisory bodies exist to advise policymakers and administrators with outside kno
 #### Maryland Open Data Council
 In April 2014, Maryland Gov. Martin O'Malley signed [Senate Bill 644](http://mgaleg.maryland.gov/2014RS/chapters_noln/Ch_69_sb0644T.pdf), creating the Maryland Council on Open Data. The Council reports to the Maryland Legislature and is charged with recommending legislation to ensure the continued implementation of the state's open data policy.
 
-#### SACOG's Innovation Task Force 
+#### SACOG's Innovation Task Force
 Our own [Sacramento Area Council of Governments](http://www.sacog.org/) established an Innovation Task Force that comprises a subset of the organization's board of directors. Previously known as the Shared Services and New Initiatives Task Force, the group explores best practices among other regional Metropolitan Planning Organizations across the country and pursues opportunities to improve efficiencies and collaborate toward shared goals across jurisdictions.
 
 ### 3.5 External Capacity Builders
 External capacity builders help organizations develop their internal innovation capacity, typically on a limited-term basis. These capacity builders bring new knowledge, ideas, methods, people, and tools to approach old problems in new ways.  
 
 #### Code for America's Fellowship and Peer Network
-[Code for America (CfA)](http://codeforamerica.org/) is a leading capacity builder that helps local governments innovate, primarily through their Fellowship and Peer Network programs. The Fellowship is a competitive program for cities to bring in a multi-disciplinary team of civic technologists who spend a year working with city officials on a set of discrete projects to improve service delivery and internal operations. Similarly, the CfA Peer Network is a network for government staff to engage in knowledge sharing and trainings that diffuse civic innovation practices. 
+[Code for America (CfA)](http://codeforamerica.org/) is a leading capacity builder that helps local governments innovate, primarily through their Fellowship and Peer Network programs. The Fellowship is a competitive program for cities to bring in a multi-disciplinary team of civic technologists who spend a year working with city officials on a set of discrete projects to improve service delivery and internal operations. Similarly, the CfA Peer Network is a network for government staff to engage in knowledge sharing and trainings that diffuse civic innovation practices.
 
 #### Living Cities
-[Living Cities](http://www.livingcities.org/) specializes in forging and advising cross-sector partnerships to improve the lives of low income people and the cities they live in. In addition to co-facilitating the [Project on Municipal Innovation](http://www.livingcities.org/leadership/pmi/), the organization recently launched the [City Acclerator](http://www.livingcities.org/press/releases/?id=24) program. The $3 million program, backed by the [Citi Foundation](http://www.citifoundation.com/citi/foundation/), invests in promising ideas in cities that improve economic opportunity and government operations. 
+[Living Cities](http://www.livingcities.org/) specializes in forging and advising cross-sector partnerships to improve the lives of low income people and the cities they live in. In addition to co-facilitating the [Project on Municipal Innovation](http://www.livingcities.org/leadership/pmi/), the organization recently launched the [City Acclerator](http://www.livingcities.org/press/releases/?id=24) program. The $3 million program, backed by the [Citi Foundation](http://www.citifoundation.com/citi/foundation/), invests in promising ideas in cities that improve economic opportunity and government operations.
 
 #### Ash Center for Democratic Governance and Innovation
-The [Ash Center for Democratic Governance and Innovation](http://www.ash.harvard.edu/) has an [Innovations in Government](http://www.ash.harvard.edu/Home/Programs/Innovations-in-Government) program that spans a variety of activities to support knowledge sharing by curating an index of innovative practices and issuing awards for public sector innovation. The Ash Center is a co-facilitator of the Project on Municipal Innovation and manages the [Data Smart Cities](http://datasmart.ash.harvard.edu/) blog. The organization also publishes occasional papers, a series of which serve as the basis for [Appendix B](/innovative-jurisdiction-framework).
+The [Ash Center for Democratic Governance and Innovation](http://www.ash.harvard.edu/) has an [Innovations in Government](http://www.ash.harvard.edu/Home/Programs/Innovations-in-Government) program that spans a variety of activities to support knowledge sharing by curating an index of innovative practices and issuing awards for public sector innovation. The Ash Center is a co-facilitator of the Project on Municipal Innovation and manages the [Data-Smart City Solutions](http://datasmart.ash.harvard.edu/) blog. The organization also publishes occasional papers, a series of which serve as the basis for [Appendix B](/innovative-jurisdiction-framework).
 
 #### The Governance Lab @ NYU
 [The Governance Lab (GovLab)](http://thegovlab.org/) is an "action-research" center based at the [Robert F. Wagner Graduate School of Public Service](http://wagner.nyu.edu/) at New York University. The GovLab's activities involve a Research Network, Living Labs, Observatory, and a free, online Academy. According to their website:
 
 > "The GovLab’s work is predicated on the following hypotheses: (a) institutions that govern themselves more collaboratively solve problems faster and with greater success; and (b) greater engagement leads to more legitimate democratic governance and also to better solutions for citizens."
 
-Although based in academia, the GovLab strives to operate like a tech startup through discrete projects that often serve real-world clients. 
+Although based in academia, the GovLab strives to operate like a tech startup through discrete projects that often serve real-world clients.
 
 ### 3.6 Community Based Civic Technology Organizations
 Community-based organizations are typically nonprofits that are focused on improving quality of life at the community level. While these organizations are not new, leveraging civic technology as a tool to drive social impact within these communities is new.
 
 #### Smart Chicago
-[Smart Chicago](http://www.smartchicagocollaborative.org/) is a civic organization in Chicago that uses technology to improve quality of life. Smart Chicago works to increase access to the Internet and use data to inform decision-making. The organization also supports weekly [Open Gov Hack Nights](http://opengovhacknight.org/), CfA Brigade network activity. 
+[Smart Chicago](http://www.smartchicagocollaborative.org/) is a civic organization in Chicago that uses technology to improve quality of life. Smart Chicago works to increase access to the Internet and use data to inform decision-making. The organization also supports weekly [Open Gov Hack Nights](http://opengovhacknight.org/), a CfA Brigade network activity.
 
 #### OpenOakland
-[OpenOakland](http://openoakland.org/) shares a similar mission to Smart Chicago, but with a more specific focus on open government and civic innovation. Also part of CfA's Brigade network, the group partnered with the City of Oakland to launch [Oakland Answers](http://answers.oaklandnet.com/), based on a platform originally launched in Honolulu through CfA's Fellowship program.
+[OpenOakland](http://openoakland.org/) shares a similar mission to Smart Chicago, but with a more specific focus on open government and civic innovation. Also part of CfA's Brigade network, the group partnered with the City of Oakland to launch [Oakland Answers](http://answers.oaklandnet.com/), based on a platform originally deployed in Honolulu through CfA's Fellowship program.
 
 ### 3.7 Incubators, Accelerators and Entrepreneurs-in-Residence
 Beyond traditional grant funds, entrepreneurship is an increasingly popular method to support civic innovation through sustainable business models. This paradigm shift treats social impact organizations like modern tech startups. Entrepreneurs are encouraged to test their ideas as early as possible and pivot when necessary.
@@ -115,7 +115,7 @@ Beyond traditional grant funds, entrepreneurship is an increasingly popular meth
 [Tumml](http://www.tumml.org/) is a new urban ventures accelerator program that provides social entrepreneurs with office space, seed funding, mentorship, and in-kind services. Based in San Francisco, the program supports promising ideas to improve city life. For example, a popular company to graduate from their program is [The Farmery](http://www.thefarmery.com/), which has a unique model of indoor vertical farming and a vision of transforming the supply chain of locally grown food.
 
 #### CURA:Tech
-[CURA:Tech](http://www.cura-tech.org/) is a program of the [Center for Urban and Regional Affairs](http://www.cura.umn.edu/) at the University of Minnesota and offers $10,000 grants to develop civic tech solutions that have the potential to improve quality of life in the Minneapolis–Saint Paul region. The program offers larger, follow-up grants for the most promising prototypes. 
+[CURA:Tech](http://www.cura-tech.org/) is a program of the [Center for Urban and Regional Affairs](http://www.cura.umn.edu/) at the University of Minnesota and offers $10,000 grants to develop civic tech solutions that have the potential to improve quality of life in the Minneapolis–Saint Paul region. The program offers larger, follow-up grants for the most promising prototypes.
 
 #### San Francisco Entrepreneurship-in-Residence
 San Francisco's [Entrepreneurship-in-Residence](http://entrepreneur.sfgov.org/) program is an initiative of SFMOCI and brings entrepreneurs and startups into the city and county to better understand the opportunities to make government more efficient. While the program does not offer funding, the ability to better understand user needs can serve as priceless feedback to a startup. Their first cohort launched in March 2014 and consists of six companies.
@@ -136,7 +136,7 @@ The [Palo Alto Apps Challenge](http://www.hackpaloalto.org/) was a contest put o
 The [2012-2013 Mayors Challenge](http://mayorschallenge.bloomberg.org/index.cfm?objectid=7E9F3B30-1A4F-11E3-8975000C29C7CA2F) solicited proposals from Mayors across the United States to pursue innovative ideas in their cities, including from [West Sacramento Mayor Christopher Cabaldon](https://vimeo.com/49479799). Over 300 cities applied with 20 reaching finalist status and the winning five each receiving $1 million to finance implementation. Established by [Bloomberg Philanthropies](http://www.bloomberg.org/), the contest has since expanded to Europe.
 
 #### Loomio
-[Loomio](https://www.loomio.org/) is a free, open source web application that facilitates group decision-making. It's included here because the effort demonstrates the potential for [civic crowdfunding](http://rodrigodavies.com/civiccrowdfunding/) to change the civic innovation landscape. Over the course of its crowdfunding campaign, the Loomio team [raised over $125,000 from over 1,600 individuals](https://love.loomio.org/real-democracy-needs-to-include-everyone). 
+[Loomio](https://www.loomio.org/) is a free, open source web application that facilitates group decision-making. It's included here because the effort demonstrates the potential for [civic crowdfunding](http://rodrigodavies.com/civiccrowdfunding/) to change the civic innovation landscape. Over the course of its crowdfunding campaign, the Loomio team [raised over $125,000 from over 1,600 individuals](https://love.loomio.org/real-democracy-needs-to-include-everyone).
 
 <a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block">Help Improve this Content</a>
 
