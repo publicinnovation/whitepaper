@@ -32,7 +32,7 @@ Shifting from the attributes of innovation to what innovation looks like as an a
 
 In other words, there is a combinatorial nature to innovation that requires that connections be made across systems, not just within them. And, so, a simplified definition of innovation might state that it is merely *new combinations of existing ideas*. Thus, collaborative, diverse networks are instrumental to making innovation happen.
 
-<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block">Help Improve this Content</a>
+<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block" id="printhide">Help Improve this Content</a>
 
 <a href="/" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
 <a href="/pursuing-innovation" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

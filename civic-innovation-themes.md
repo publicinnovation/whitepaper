@@ -80,7 +80,7 @@ As metropolitan areas begin to connect the activities happening between civic te
 ### A Shift in Culture
 Many of the ideas reflected here require a level of humility within public sector organizations not taught in public policy and administration programs where expertise and rigorous analytical skills are valued. While specialization is useful in many areas of government, co-creation and co-production with citizens requires a broader skill set that is more focused on understanding the patterns and connections across civic systems. Moreover, collaborative government also must understand itself by enabling bottom-up ideas to emanate from anywhere within an agency.
 
-<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block">Help Improve this Content</a>
+<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block" id="printhide">Help Improve this Content</a>
 
 <a href="/civic-innovation-structures" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
 <a href="/recommendations" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

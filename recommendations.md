@@ -64,7 +64,7 @@ Actions for future consideration by the advisory body, along with state and loca
 
 [Appendix C](/new-urban-mechanics) contains the executive order that created Philadelphia's Mayor's Office of New Urban Mechanics – a public sector innovation lab, also as reference.
 
-<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block">Help Improve these Recommendations</a>
+<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block" id="printhide">Help Improve these Recommendations</a>
 
 <a href="/civic-innovation-themes" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
 <a href="/agenda-resolution" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

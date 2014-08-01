@@ -29,7 +29,7 @@ The third strategy by which organizations may pursue innovation–and most often
 
 The preceding two sections have briefly explored the innovation space generically. To understand the implications in this paper's context, we'll now focus more narrowly on civic innovation.
 
-<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block">Help Improve this Content</a>
+<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block" id="printhide">Help Improve this Content</a>
 
 <a href="/defining-innovation" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
 <a href="/civic-innovation-structures" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

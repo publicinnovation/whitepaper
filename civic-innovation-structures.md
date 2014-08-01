@@ -138,7 +138,7 @@ The [2012-2013 Mayors Challenge](http://mayorschallenge.bloomberg.org/index.cfm?
 #### Loomio
 [Loomio](https://www.loomio.org/) is a free, open source web application that facilitates group decision-making. It's included here because the effort demonstrates the potential for [civic crowdfunding](http://rodrigodavies.com/civiccrowdfunding/) to change the civic innovation landscape. Over the course of its crowdfunding campaign, the Loomio team [raised over $125,000 from over 1,600 individuals](https://love.loomio.org/real-democracy-needs-to-include-everyone).
 
-<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block">Help Improve this Content</a>
+<a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block" id="printhide">Help Improve this Content</a>
 
 <a href="/pursuing-innovation" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
 <a href="/civic-innovation-themes" class="btn btn-default btn-lg pull-right id="printhide"">Next</a>
