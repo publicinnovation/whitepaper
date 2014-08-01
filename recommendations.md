@@ -12,27 +12,27 @@ The purpose of this paper has been to provide context for, and recommend the ado
 
 2. The region should establish a multi-sector stakeholder advisory body to advise the region's local, state, and federal agencies on open data and civic innovation. The advisory body should:
 
-		a. Consist of local government staff, leaders of civic organizations, representatives from academia, and members of the entrepreneurship community;
+a. Consist of local government staff, leaders of civic organizations, representatives from academia, and members of the entrepreneurship community;
 
-		b. Be charged with coordinating open data initiatives and developing civic data standards to support interoperability across all levels of government;
+b. Be charged with coordinating open data initiatives and developing civic data standards to support interoperability across all levels of government;
 
-		c. Develop and adopt a one-year action plan for the purposes of achieving quick and early wins;
+c. Develop and adopt a one-year action plan for the purposes of achieving quick and early wins;
 
-		d. Identify areas in which state statute or regulations inhibit civic innovation; and,
+d. Identify areas in which state statute or regulations inhibit civic innovation; and,
 
-		e. Identify ways in which civic startups and social enterprises can more easily do business with government through procurement reform.
+e. Identify ways in which civic startups and social enterprises can more easily do business with government through procurement reform.
 
 3. The region's local government bodies should commit to allocating a finite set of resources to support civic innovation activities. Such resources might include:
 
-		* Financial resources to establish and support a regional civic innovation fund;
+* Financial resources to establish and support a regional civic innovation fund;
 
-		* Staff support to carry out special projects within interagency and multi-sector delivery teams;
+* Staff support to carry out special projects within interagency and multi-sector delivery teams;
 
-		* Physical space to support experimentation;
+* Physical space to support experimentation;
 
-		* Knowledge sharing about opportunities to reduce costs and improve outcomes in the delivery of public services; and,
+* Knowledge sharing about opportunities to reduce costs and improve outcomes in the delivery of public services; and,
 
-		* Opportunities for the public to solve community problems in partnership with government.
+* Opportunities for the public to solve community problems in partnership with government.
 
 ### Future Considerations
 
