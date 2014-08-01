@@ -16,4 +16,4 @@ A recurring theme in this paper is that technology is fundamentally changing the
 
 Because the future is now and the opportunities are infinite.
 
-<a href="/defining-innovation" class="btn btn-default btn-lg pull-right">Next</a>
+<a href="/defining-innovation" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

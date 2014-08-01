@@ -9,7 +9,7 @@ A few things make this different:
 2. We're not a special interest group; we're just trying to move the needle on measurable quality of life outcomes.
 3. We're open source, so please fork our policy and make it better.
 
-Content is served up by [Jekyll](http://jekyllrb.com/) using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Here are direct links to each section of the paper in the respo:
+Here are direct links to each section of the paper in the repo:
 
 * [Introduction](https://github.com/publicinnovation/whitepaper/blob/gh-pages/index.md)
 * [1. Defining Innovation](https://github.com/publicinnovation/whitepaper/blob/gh-pages/defining-innovation.md)
@@ -21,9 +21,11 @@ Content is served up by [Jekyll](http://jekyllrb.com/) using [Markdown](https://
 * [Appendix B. Framework for an Innovative Jurisdiction](https://github.com/publicinnovation/whitepaper/blob/gh-pages/innovative-jurisdiction-framework.md)
 * [Appendix C. New Urban Mechanics Executive Order](https://github.com/publicinnovation/whitepaper/blob/gh-pages/new-urban-mechanics.md)
 
-Pull requests encouraged. Don't know how to make a pull request? [Create a GitHub account](https://github.com/join) and give us your feedback instead by [opening an issue](https://github.com/publicinnovation/whitepaper/issues). It's as easy as leaving a comment.
+Content is served up by [Jekyll](http://jekyllrb.com/) using [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). Pull requests encouraged.
 
-Want to learn how to make a pull request? Hit up [@roughani](https://github.com/roughani) and he will train you in-person at your convenience.
+Don't know how to make a pull request? [Create a GitHub account](https://github.com/join) and give us your feedback instead by [opening an issue](https://github.com/publicinnovation/whitepaper/issues). It's as easy as leaving a comment.
+
+Want to learn how to make a pull request? Hit up [@roughani](https://github.com/roughani) and he will show you.
 
 ## Acknowledgments
 * Theme forked from [orderedlist](https://github.com/orderedlist/minimal)

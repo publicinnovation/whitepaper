@@ -1,10 +1,10 @@
---- 
+---
 layout: default
 title: Appendix B. Framework for an Innovative Jurisdiction
 permalink: /innovative-jurisdiction-framework/
 ---
 
-The following [Framework for an Innovative Jurisdiction](http://www.ash.harvard.edu/ash/Home/Programs/Innovations-in-Government/Publications/Journal-Articles-Occasional-Papers) was developed by the [Ash Center for Democratic Governance and Innovation](http://www.ash.harvard.edu/) at Harvard University's John F. Kennedy School of Government. We provide the framework as a reference point for policymakers and stakeholders who wish to gain a broader view from the perspective of academia. In particular, Part 3 offers a [set of performance measures for evaluating civic innovation initiatives](http://www.innovations.harvard.edu/showdoc.html?id=3042090). 
+The following [Framework for an Innovative Jurisdiction](http://www.ash.harvard.edu/ash/Home/Programs/Innovations-in-Government/Publications/Journal-Articles-Occasional-Papers) was developed by the [Ash Center for Democratic Governance and Innovation](http://www.ash.harvard.edu/) at Harvard University's John F. Kennedy School of Government. We provide the framework as a reference point for policymakers and stakeholders who wish to gain a broader view from the perspective of academia. In particular, Part 3 offers a [set of performance measures for evaluating civic innovation initiatives](http://www.innovations.harvard.edu/showdoc.html?id=3042090).
 
 The Framework is as follows:
 
@@ -43,5 +43,5 @@ Empower clients to participate in their own progress, including choice and activ
 
 Source: [http://www.innovations.harvard.edu/showdoc.html?id=2849663](http://www.innovations.harvard.edu/showdoc.html?id=2849663)
 
-<a href="/agenda-resolution" class="btn btn-default btn-lg pull-left">Previous</a>
-<a href="/new-urban-mechanics" class="btn btn-default btn-lg pull-right">Next</a>
+<a href="/agenda-resolution" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
+<a href="/new-urban-mechanics" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

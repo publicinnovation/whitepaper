@@ -34,5 +34,5 @@ In other words, there is a combinatorial nature to innovation that requires that
 
 <a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block">Help Improve this Content</a>
 
-<a href="/" class="btn btn-default btn-lg pull-left">Previous</a>
-<a href="/pursuing-innovation" class="btn btn-default btn-lg pull-right">Next</a>
+<a href="/" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
+<a href="/pursuing-innovation" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

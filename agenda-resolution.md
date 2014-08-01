@@ -52,5 +52,5 @@ PASSED AND ADOPTED on this XX day of MMMM 2014, by the following roll-call vote:
 
 <a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block">Help Improve this Resolution</a>
 
-<a href="/innovative-jurisdiction-framework" class="btn btn-default btn-lg pull-right">Next</a>
-<a href="/recommendations" class="btn btn-default btn-lg pull-left">Previous</a>
+<a href="/innovative-jurisdiction-framework" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>
+<a href="/recommendations" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
