@@ -43,5 +43,5 @@ Empower clients to participate in their own progress, including choice and activ
 
 Source: [http://www.innovations.harvard.edu/showdoc.html?id=2849663](http://www.innovations.harvard.edu/showdoc.html?id=2849663)
 
-<a href="/agenda-resolution" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
+<a href="/agenda-resolution" class="btn btn-default btn-lg pull-left" id="printhide">Prev</a>
 <a href="/new-urban-mechanics" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

@@ -82,5 +82,5 @@ Many of the ideas reflected here require a level of humility within public secto
 
 <a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block" id="printhide">Help Improve this Content</a>
 
-<a href="/civic-innovation-structures" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
+<a href="/civic-innovation-structures" class="btn btn-default btn-lg pull-left" id="printhide">Prev</a>
 <a href="/recommendations" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

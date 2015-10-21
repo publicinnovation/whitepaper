@@ -140,5 +140,5 @@ The [2012-2013 Mayors Challenge](http://mayorschallenge.bloomberg.org/index.cfm?
 
 <a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block" id="printhide">Help Improve this Content</a>
 
-<a href="/pursuing-innovation" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
+<a href="/pursuing-innovation" class="btn btn-default btn-lg pull-left" id="printhide">Prev</a>
 <a href="/civic-innovation-themes" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>

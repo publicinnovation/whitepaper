@@ -63,4 +63,4 @@ Michael A. Nutter, Mayor
 
 Source: [http://www.phila.gov/ExecutiveOrders/Executive%20Orders/2012_EO05-12.pdf](http://www.phila.gov/ExecutiveOrders/Executive%20Orders/2012_EO05-12.pdf)
 
-<a href="/innovative-jurisdiction-framework" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
+<a href="/innovative-jurisdiction-framework" class="btn btn-default btn-lg pull-left" id="printhide">Prev</a>

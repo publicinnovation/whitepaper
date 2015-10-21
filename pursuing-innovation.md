@@ -31,5 +31,5 @@ The preceding two sections have briefly explored the innovation space genericall
 
 <a href="https://github.com/publicinnovation/whitepaper/issues" class="btn btn-success btn-lg btn-block" id="printhide">Help Improve this Content</a>
 
-<a href="/defining-innovation" class="btn btn-default btn-lg pull-left" id="printhide">Previous</a>
+<a href="/defining-innovation" class="btn btn-default btn-lg pull-left" id="printhide">Prev</a>
 <a href="/civic-innovation-structures" class="btn btn-default btn-lg pull-right" id="printhide">Next</a>
